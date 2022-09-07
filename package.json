@@ -1,0 +1,16 @@
+{
+  "description": "Supports Unity's simple local save utility.",
+  "displayName": "LocalSave",
+  "author": "pspkurara",
+  "keywords": [
+    "Script",
+    "Save"
+  ],
+  "name": "com.pspkurara.localsave",
+  "unity": "2018.2",
+  "version": "1.0.0",
+  "type": "library",
+  "dependencies": {
+    "com.unity.modules.jsonserialize": "1.0.0"
+  }
+}

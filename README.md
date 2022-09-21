@@ -390,6 +390,9 @@ public class FileLocalSaveSystem : ILocalSaveSystem
 }
 ```
 
+### Full API references
+* https://pspkurara.github.io/localsave/
+
 ## Installation
 
 ### Using OpenUPM
